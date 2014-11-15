@@ -1,9 +1,9 @@
-PHP 5.4.33 (cli) (built: Sep 21 2014 01:39:02) 
+PHP 5.4.35 (cli) (built: Nov 14 2014 01:01:17) 
 Copyright (c) 1997-2014 The PHP Group
 Zend Engine v2.4.0, Copyright (c) 1998-2014 Zend Technologies
     with XCache v4.0.0-dev, Copyright (c) 2005-2013, by mOo
     with Zend OPcache v7.0.4-dev, Copyright (c) 1999-2014, by Zend Technologies
-    with Xdebug v2.3.0dev, Copyright (c) 2002-2013, by Derick Rethans
+    with Xdebug v2.2.5, Copyright (c) 2002-2014, by Derick Rethans
     with QB v2.4.0, Copyright (c) 2013-2014, by Chung Leong
     with Suhosin v0.9.34-dev, Copyright (c) 2007-2012, by SektionEins GmbH
     with XCache Optimizer v4.0.0-dev, Copyright (c) 2005-2013, by mOo
@@ -12,145 +12,145 @@ Zend Engine v2.4.0, Copyright (c) 1998-2014 Zend Technologies
  Volume in drive C is Windows7_OS
  Volume Serial Number is A6DB-07E9
 
- Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.33
+ Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.35
 
-21/09/14  02:01            49.152 php-cgi.exe
-21/09/14  02:01            26.624 php-win.exe
-21/09/14  02:01            60.416 php.exe
+14/11/14  01:18            49.152 php-cgi.exe
+14/11/14  01:18            26.624 php-win.exe
+14/11/14  01:18            60.416 php.exe
                3 File(s)        136.192 bytes
 
      Total Files Listed:
                3 File(s)        136.192 bytes
-               0 Dir(s)  16.533.741.568 bytes free
+               0 Dir(s)  15.980.605.440 bytes free
  Volume in drive C is Windows7_OS
  Volume Serial Number is A6DB-07E9
 
- Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.33
+ Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.35
 
-21/09/14  02:01            26.112 php5apache2_2.dll
-21/09/14  02:01            23.552 php5apache2_2_filter.dll
-21/09/14  02:01            26.624 php5apache2_4.dll
-21/09/14  02:01         6.825.472 php5ts.dll
-               4 File(s)      6.901.760 bytes
+14/11/14  01:18            26.112 php5apache2_2.dll
+14/11/14  01:18            23.552 php5apache2_2_filter.dll
+14/11/14  01:18            26.624 php5apache2_4.dll
+14/11/14  01:18         7.058.432 php5ts.dll
+               4 File(s)      7.134.720 bytes
 
- Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.33\ext
+ Directory of C:\php-sdk\php54dev\Release_TS\php-5.4.35\ext
 
-21/09/14  02:01           109.568 php_apc.dll
-21/09/14  02:01            64.512 php_apcu.dll
-21/09/14  02:01            40.448 php_av.dll
-21/09/14  02:01            19.968 php_blenc.dll
-21/09/14  02:01            60.416 php_bz2.dll
-21/09/14  02:01            70.144 php_com_dotnet.dll
-21/09/14  02:01           118.784 php_couchbase.dll
-21/09/14  02:01           450.560 php_couchdb.dll
-21/09/14  02:01            46.592 php_crypto.dll
-21/09/14  02:01           461.312 php_curl.dll
-21/09/14  02:01           388.608 php_dba.dll
-21/09/14  02:01            25.600 php_dbase.dll
-21/09/14  02:01            20.480 php_dio.dll
-21/09/14  02:01            58.880 php_discount.dll
-21/09/14  02:01            18.944 php_doublemetaphone.dll
-21/09/14  02:01            91.136 php_eaccelerator.dll
-21/09/14  02:01            18.944 php_enchant.dll
-21/09/14  02:01           237.568 php_event.dll
-21/09/14  02:01            90.624 php_excel.dll
-21/09/14  02:01            44.544 php_exif.dll
-21/09/14  02:01            32.768 php_ffmpeg.dll
-21/09/14  02:01         2.690.560 php_fileinfo.dll
-21/09/14  02:01            91.648 php_fribidi.dll
-21/09/14  02:01         1.519.616 php_gd2.dll
-21/09/14  02:01         5.867.008 php_gender.dll
-21/09/14  02:01           237.568 php_geoip.dll
-21/09/14  02:01            39.424 php_gettext.dll
-21/09/14  02:01           240.640 php_gmp.dll
-21/09/14  02:01           802.816 php_haru.dll
-21/09/14  02:01            12.800 php_hrtime.dll
-21/09/14  02:01            14.336 php_htscanner.dll
-21/09/14  02:01           807.936 php_http.dll
-21/09/14  02:01           741.376 php_http1.dll
-21/09/14  02:01            95.744 php_igbinary.dll
-21/09/14  02:01           217.088 php_imagick.dll
-21/09/14  02:01           816.128 php_imap.dll
-21/09/14  02:01            65.024 php_interbase.dll
-21/09/14  02:01           143.360 php_intl.dll
-21/09/14  02:01            12.800 php_jsmin.dll
-21/09/14  02:01            53.760 php_jsonc.dll
-21/09/14  02:01            34.304 php_jsond.dll
-21/09/14  02:01           191.488 php_judy.dll
-21/09/14  02:01           177.664 php_ldap.dll
-21/09/14  02:01            12.800 php_lzf.dll
-21/09/14  02:01            40.960 php_mailparse.dll
-21/09/14  02:01         1.221.120 php_mbstring.dll
-21/09/14  02:01            45.056 php_mdbtools.dll
-21/09/14  02:01            45.568 php_memcache.dll
-21/09/14  02:01           295.424 php_mongo.dll
-21/09/14  02:01            87.552 php_msgpack.dll
-21/09/14  02:01            35.840 php_mysql.dll
-21/09/14  02:01            91.136 php_mysqli.dll
-21/09/14  02:01            93.696 php_mysqlnd_qc.dll
-21/09/14  02:01           475.136 php_oauth.dll
-21/09/14  02:01           123.904 php_oci8.dll
-21/09/14  02:01           124.416 php_oci8_11g.dll
-21/09/14  02:01           125.440 php_oci8_12c.dll
-21/09/14  02:01           118.272 php_opcache.dll
-21/09/14  02:01           118.272 php_opcache54.dll
-21/09/14  02:01            77.312 php_openssl.dll
-21/09/14  02:01            17.920 php_pcsc.dll
-21/09/14  02:01           136.192 php_pdflib.dll
-21/09/14  02:01            22.016 php_pdo_firebird.dll
-21/09/14  02:01            24.576 php_pdo_mysql.dll
-21/09/14  02:01            24.064 php_pdo_oci.dll
-21/09/14  02:01            21.504 php_pdo_odbc.dll
-21/09/14  02:02            27.648 php_pdo_pgsql.dll
-21/09/14  02:02           515.584 php_pdo_sqlite.dll
-21/09/14  02:02           152.576 php_pdo_sqlsrv.dll
-21/09/14  02:01            89.600 php_pgsql.dll
-21/09/14  02:01            16.896 php_pop3.dll
-21/09/14  02:01            35.840 php_printer.dll
-21/09/14  02:01            16.384 php_propro.dll
-21/09/14  02:01            18.944 php_pspell.dll
-21/09/14  02:01            72.192 php_pthreads.dll
-21/09/14  02:01         1.128.448 php_qb.dll
-21/09/14  02:01            36.352 php_radius.dll
-21/09/14  02:01            19.456 php_raphf.dll
-21/09/14  02:01           196.096 php_rar.dll
-21/09/14  02:02           170.496 php_redis.dll
-21/09/14  02:01            40.448 php_rsync.dll
-21/09/14  02:01            11.776 php_shmop.dll
-21/09/14  02:01            12.800 php_smtp.dll
-21/09/14  02:01           352.256 php_snmp.dll
-21/09/14  02:02           255.488 php_soap.dll
-21/09/14  02:01            43.008 php_sockets.dll
-21/09/14  02:02           552.448 php_solr.dll
-21/09/14  02:01           527.872 php_sqlite3.dll
-21/09/14  02:01           168.960 php_sqlsrv.dll
-21/09/14  02:01           148.480 php_ssh2.dll
-21/09/14  02:01           119.296 php_stats.dll
-21/09/14  02:01            34.816 php_stomp.dll
-21/09/14  02:02           111.104 php_suhosin.dll
-21/09/14  02:01            50.176 php_svn.dll
-21/09/14  02:01            31.744 php_sybase_ct.dll
-21/09/14  02:01            16.384 php_sync.dll
-21/09/14  02:01           227.840 php_tidy.dll
-21/09/14  02:01           288.256 php_timezonedb.dll
-21/09/14  02:01           576.000 php_translit.dll
-21/09/14  02:01            13.312 php_uploadprogress.dll
-21/09/14  02:01            23.040 php_uprofiler.dll
-21/09/14  02:02            25.600 php_varnish.dll
-21/09/14  02:01            16.384 php_wfio.dll
-21/09/14  02:01            12.800 php_win32ps.dll
-21/09/14  02:01            22.016 php_win32service.dll
-21/09/14  02:01           359.424 php_xcache.dll
-21/09/14  02:01           172.544 php_xdebug.dll
-21/09/14  02:02            75.776 php_xmldiff.dll
-21/09/14  02:02            64.000 php_xmlrpc.dll
-21/09/14  02:02           225.792 php_xsl.dll
-21/09/14  02:02           224.256 php_xslcache.dll
-             111 File(s)     28.022.272 bytes
+14/11/14  01:18           109.568 php_apc.dll
+14/11/14  01:18            64.512 php_apcu.dll
+14/11/14  01:18            40.448 php_av.dll
+14/11/14  01:18            19.968 php_blenc.dll
+14/11/14  01:18            60.416 php_bz2.dll
+14/11/14  01:18            70.144 php_com_dotnet.dll
+14/11/14  01:18           118.784 php_couchbase.dll
+14/11/14  01:18           452.096 php_couchdb.dll
+14/11/14  01:18            46.592 php_crypto.dll
+14/11/14  01:18           462.848 php_curl.dll
+14/11/14  01:18           388.608 php_dba.dll
+14/11/14  01:18            25.600 php_dbase.dll
+14/11/14  01:18            20.480 php_dio.dll
+14/11/14  01:18            58.880 php_discount.dll
+14/11/14  01:18            18.944 php_doublemetaphone.dll
+14/11/14  01:18            91.136 php_eaccelerator.dll
+14/11/14  01:18            18.944 php_enchant.dll
+14/11/14  01:18           240.640 php_event.dll
+14/11/14  01:18            90.624 php_excel.dll
+14/11/14  01:18            44.544 php_exif.dll
+14/11/14  01:18            32.768 php_ffmpeg.dll
+14/11/14  01:18         2.690.560 php_fileinfo.dll
+14/11/14  01:18            91.648 php_fribidi.dll
+14/11/14  01:18         1.519.616 php_gd2.dll
+14/11/14  01:18         5.867.008 php_gender.dll
+14/11/14  01:18           237.568 php_geoip.dll
+14/11/14  01:18            39.424 php_gettext.dll
+14/11/14  01:18           240.128 php_gmp.dll
+14/11/14  01:18           802.816 php_haru.dll
+14/11/14  01:18            12.800 php_hrtime.dll
+14/11/14  01:18            14.336 php_htscanner.dll
+14/11/14  01:18           785.920 php_http.dll
+14/11/14  01:18           742.400 php_http1.dll
+14/11/14  01:18            95.744 php_igbinary.dll
+14/11/14  01:18           217.088 php_imagick.dll
+14/11/14  01:18           816.128 php_imap.dll
+14/11/14  01:18            65.024 php_interbase.dll
+14/11/14  01:18           143.360 php_intl.dll
+14/11/14  01:18            12.800 php_jsmin.dll
+14/11/14  01:18            53.760 php_jsonc.dll
+14/11/14  01:18            34.816 php_jsond.dll
+14/11/14  01:18           191.488 php_judy.dll
+14/11/14  01:18           178.176 php_ldap.dll
+14/11/14  01:18            12.800 php_lzf.dll
+14/11/14  01:18            40.960 php_mailparse.dll
+14/11/14  01:18         1.221.120 php_mbstring.dll
+14/11/14  01:18            45.056 php_mdbtools.dll
+14/11/14  01:18            45.568 php_memcache.dll
+14/11/14  01:18           295.424 php_mongo.dll
+14/11/14  01:18            87.552 php_msgpack.dll
+14/11/14  01:18            35.840 php_mysql.dll
+14/11/14  01:18            91.136 php_mysqli.dll
+14/11/14  01:18            93.696 php_mysqlnd_qc.dll
+14/11/14  01:18           475.648 php_oauth.dll
+14/11/14  01:18           123.904 php_oci8.dll
+14/11/14  01:18           124.416 php_oci8_11g.dll
+14/11/14  01:18           125.440 php_oci8_12c.dll
+14/11/14  01:18           118.272 php_opcache.dll
+14/11/14  01:18           118.272 php_opcache54.dll
+14/11/14  01:18            76.800 php_openssl.dll
+14/11/14  01:18            17.920 php_pcsc.dll
+14/11/14  01:18           136.192 php_pdflib.dll
+14/11/14  01:18            22.016 php_pdo_firebird.dll
+14/11/14  01:18            24.576 php_pdo_mysql.dll
+14/11/14  01:18            24.064 php_pdo_oci.dll
+14/11/14  01:18            21.504 php_pdo_odbc.dll
+14/11/14  01:18            27.648 php_pdo_pgsql.dll
+14/11/14  01:18           515.584 php_pdo_sqlite.dll
+14/11/14  01:18           152.576 php_pdo_sqlsrv.dll
+14/11/14  01:18            89.600 php_pgsql.dll
+14/11/14  01:18            16.896 php_pop3.dll
+14/11/14  01:18            35.840 php_printer.dll
+14/11/14  01:18            16.384 php_propro.dll
+14/11/14  01:18            18.944 php_pspell.dll
+14/11/14  01:18            72.704 php_pthreads.dll
+14/11/14  01:18         1.128.448 php_qb.dll
+14/11/14  01:18            36.352 php_radius.dll
+14/11/14  01:18            19.456 php_raphf.dll
+14/11/14  01:18           196.096 php_rar.dll
+14/11/14  01:18           170.496 php_redis.dll
+14/11/14  01:18            40.448 php_rsync.dll
+14/11/14  01:18            11.776 php_shmop.dll
+14/11/14  01:18            12.800 php_smtp.dll
+14/11/14  01:18           352.256 php_snmp.dll
+14/11/14  01:18           255.488 php_soap.dll
+14/11/14  01:18            43.008 php_sockets.dll
+14/11/14  01:18           554.496 php_solr.dll
+14/11/14  01:18           527.872 php_sqlite3.dll
+14/11/14  01:18           168.960 php_sqlsrv.dll
+14/11/14  01:18           148.480 php_ssh2.dll
+14/11/14  01:18           119.296 php_stats.dll
+14/11/14  01:18            34.816 php_stomp.dll
+14/11/14  01:18           111.104 php_suhosin.dll
+14/11/14  01:18            50.176 php_svn.dll
+14/11/14  01:18            31.744 php_sybase_ct.dll
+14/11/14  01:18            16.384 php_sync.dll
+14/11/14  01:18           227.840 php_tidy.dll
+14/11/14  01:18           288.768 php_timezonedb.dll
+14/11/14  01:18           576.000 php_translit.dll
+14/11/14  01:18            13.312 php_uploadprogress.dll
+14/11/14  01:18            23.040 php_uprofiler.dll
+14/11/14  01:18            25.600 php_varnish.dll
+14/11/14  01:18            16.384 php_wfio.dll
+14/11/14  01:18            12.800 php_win32ps.dll
+14/11/14  01:18            22.016 php_win32service.dll
+14/11/14  01:18           359.424 php_xcache.dll
+14/11/14  01:18           166.912 php_xdebug.dll
+14/11/14  01:18            75.776 php_xmldiff.dll
+14/11/14  01:18            64.000 php_xmlrpc.dll
+14/11/14  01:18           225.792 php_xsl.dll
+14/11/14  01:18           224.256 php_xslcache.dll
+             111 File(s)     28.005.376 bytes
 
      Total Files Listed:
-             115 File(s)     34.924.032 bytes
-               0 Dir(s)  16.533.737.472 bytes free
+             115 File(s)     35.140.096 bytes
+               0 Dir(s)  15.980.601.344 bytes free
 [PHP Modules]
 apc
 apcu
@@ -303,17 +303,17 @@ Xdebug
 Zend OPcache
 
 phpinfo()
-PHP Version => 5.4.33
+PHP Version => 5.4.35
 
 System => Windows NT X220 6.1 build 7601 (Windows 7 Business Edition Service Pack 1) i586
-Build Date => Sep 21 2014 01:36:01
+Build Date => Nov 14 2014 00:59:26
 Compiler => MSVC9 (Visual C++ 2008)
 Architecture => x86
 Configure Command => cscript /nologo configure.js  "--enable-debug-pack" "--enable-embed" "--enable-cli-win32" "--enable-apache2-2handler" "--enable-apache2-2filter" "--enable-apache2-4handler" "--with-mysql=shared" "--with-mysqli=shared" "--enable-mysqlnd-qc=shared" "--disable-mysqlnd-qc-apc" "--disable-mysqlnd-qc-sqlite" "--enable-pdo" "--with-pdo-mysql=shared" "--with-pgsql=shared" "--with-pdo-pgsql=shared" "--with-mcrypt=static" "--with-openssl=shared" "--with-crypto=shared" "--enable-blenc=shared" "--enable-phar-native-ssl" "--enable-sockets=shared" "--enable-intl=shared" "--with-wfio=shared" "--enable-mbstring=shared" "--enable-mbregex" "--enable-translit=shared" "--enable-exif=shared" "--with-xmlrpc=shared" "--with-xmldiff=shared" "--with-xsl=shared" "--with-xslcache=shared" "--enable-solr=shared" "--enable-solr-debug" "--with-curl=shared" "--enable-stomp=shared" "--with-tidy=shared" "--enable-jsmin=shared" "--with-bz2=shared" "--enable-lzf=shared" "--enable-rar=shared" "--enable-fileinfo=shared" "--with-gettext=shared" "--with-mhash" "--with-ldap=shared" "--with-radius=shared" "--enable-redis=shared" "--enable-igbinary=shared" "--enable-redis-igbinary" "--enable-com-dotnet=shared" "--with-interbase=shared" "--with-pdo-firebird=shared" "--enable-soap=shared" "--with-sqlite3=shared" "--with-pdo-sqlite=shared" "--enable-shmop=shared" "--enable-sync=shared" "--with-gmp=shared" "--with-pdo-odbc=shared" "--enable-sqlsrv=shared" "--with-pdo-sqlsrv=shared" "--with-pdo-oci=C:\php-sdk\oracle\instantclient10\sdk,shared" "--with-oci8=C:\php-sdk\oracle\instantclient10\sdk,shared" "--with-oci8-11g=C:\php-sdk\oracle\instantclient11\sdk,shared" "--with-oci8-12c=C:\php-sdk\oracle\instantclient12\sdk,shared" "--with-sybase-ct=shared" "--enable-couchdb=shared" "--with-couchbase=shared" "--enable-mongo=shared" "--with-mongo-sasl" "--with-imap=shared" "--enable-mailparse=shared" "--enable-pop3=shared" "--with-smtp=shared" "--with-oauth=shared" "--with-pcsc=shared" "--with-dba=shared" "--enable-dbase=shared" "--with-mdbtools=shared" "--enable-stats=shared" "--with-judy=shared" "--enable-gender=shared" "--with-ssh2=shared" "--with-snmp=shared" "--enable-msgpack=shared" "--enable-uploadprogress=shared" "--enable-htscanner=shared" "--enable-http1=shared" "--enable-http=shared" "--enable-propro=shared" "--enable-raphf=shared" "--with-imagick=shared" "--enable-discount=shared" "--enable-uprofiler=shared" "--with-pdflib=shared" "--with-haru=shared" "--enable-jsond=shared" "--with-jsonc=shared" "--enable-qb=shared" "--with-excel=shared" "--with-enchant=shared" "--with-fribidi=shared" "--with-pspell=shared" "--with-doublemetaphone=shared" "--enable-printer=shared" "--with-event=shared" "--enable-dio=shared" "--with-geoip=shared" "--enable-timezonedb=shared" "--enable-hrtime=shared" "--with-svn=shared" "--with-rsync=shared" "--with-xdebug=shared" "--enable-win32ps=shared" "--enable-win32service=shared" "--with-pthreads=shared" "--enable-memcache=shared" "--enable-apc=shared" "--enable-apc-srwlock-native" "--enable-apc-debug" "--enable-apcu=shared" "--enable-apcu-debug" "--enable-opcache=shared" "--enable-opcache54=shared" "--enable-xcache=shared" "--enable-xcache-optimizer" "--enable-xcache-coverager" "--enable-eaccelerator=shared" "--enable-varnish=shared" "--enable-ffmpeg=shared" "--with-av=shared" "--enable-suhosin=shared" "--disable-static-analyze"
 Server API => Command Line Interface
 Virtual Directory Support => enabled
 Configuration File (php.ini) Path => C:\Windows
-Loaded Configuration File => C:\php-sdk\php54dev\Release_TS\php-5.4.33\php.ini
+Loaded Configuration File => C:\php-sdk\php54dev\Release_TS\php-5.4.35\php.ini
 Scan this dir for additional .ini files => (none)
 Additional .ini files parsed => (none)
 PHP API => 20100412
@@ -337,7 +337,7 @@ This program makes use of the Zend Scripting Language Engine:
 Zend Engine v2.4.0, Copyright (c) 1998-2014 Zend Technologies
     with XCache v4.0.0-dev, Copyright (c) 2005-2013, by mOo
     with Zend OPcache v7.0.4-dev, Copyright (c) 1999-2014, by Zend Technologies
-    with Xdebug v2.3.0dev, Copyright (c) 2002-2013, by Derick Rethans
+    with Xdebug v2.2.5, Copyright (c) 2002-2014, by Derick Rethans
     with QB v2.4.0, Copyright (c) 2013-2014, by Chung Leong
     with Suhosin v0.9.34-dev, Copyright (c) 2007-2012, by SektionEins GmbH
     with XCache Optimizer v4.0.0-dev, Copyright (c) 2005-2013, by mOo
@@ -357,12 +357,12 @@ APC support => Emulated
 apcu
 
 APCu Support => Disabled
-Version => 4.0.6
+Version => 4.0.8
 APCu Debugging => Disabled
 MMAP Support => Disabled
 Serialization Support => Disabled
 Revision => $Revision: 328290 $
-Build Date => Sep 21 2014 01:39:49
+Build Date => Nov 14 2014 01:01:49
 
 Directive => Local Value => Master Value
 apc.coredump_unmap => Off => Off
@@ -813,7 +813,7 @@ com.typelib_file => no value => no value
 
 Core
 
-PHP Version => 5.4.33
+PHP Version => 5.4.35
 
 Directive => Local Value => Master Value
 allow_url_fopen => On => On
@@ -933,8 +933,8 @@ crypto
 
 Crypto Support => enabled
 Crypto Version => 0.1.1
-OpenSSL Library Version => OpenSSL 1.0.1i 6 Aug 2014
-OpenSSL Header Version => OpenSSL 1.0.1i 6 Aug 2014
+OpenSSL Library Version => OpenSSL 1.0.1j-fips 15 Oct 2014
+OpenSSL Header Version => OpenSSL 1.0.1j-fips 15 Oct 2014
 
 ctype
 
@@ -943,7 +943,7 @@ ctype functions => enabled
 curl
 
 cURL support => enabled
-cURL Information => 7.38.0
+cURL Information => 7.39.0
 Age => 3
 Features
 AsynchDNS => Yes
@@ -961,14 +961,14 @@ libz => No
 CharConv => No
 Protocols => dict, file, ftp, ftps, gopher, http, https, imap, imaps, ldap, pop3, pop3s, rtsp, scp, sftp, smtp, smtps, telnet, tftp
 Host => i386-pc-win32
-SSL Version => OpenSSL/1.0.1i
+SSL Version => OpenSSL/1.0.1j
 libSSH Version => libssh2/1.4.3
 
 date
 
 date/time support => enabled
-"Olson" Timezone Database Version => 2014.7
-Timezone Database => internal
+"Olson" Timezone Database Version => 2014.10
+Timezone Database => external
 Default timezone => Europe/Amsterdam
 
 Directive => Local Value => Master Value
@@ -1038,7 +1038,7 @@ Debug support => disabled
 Extra functionality support including HTTP, DNS, and RPC => enabled
 OpenSSL support => enabled
 Thread safety support => enabled
-Extension version => 1.10.3
+Extension version => 1.11.0
 libevent2 headers version => 2.1.4-alpha-dev
 
 excel
@@ -1050,7 +1050,7 @@ LibXL Version => 3060000
 exif
 
 EXIF Support => enabled
-EXIF Version => 1.4 $Id: 38907b4d942a8d2419060a688aa3c5e5dedcb118 $
+EXIF Version => 1.4 $Id: 637ebf9289b40d157fdf8edcdddeb3d907b28d9b $
 Supported EXIF Version => 0220
 Supported filetypes => JPEG,TIFF
 
@@ -1065,7 +1065,7 @@ exif.encode_unicode => ISO-8859-15 => ISO-8859-15
 ffmpeg
 
 ffmpeg-php version => 0.7.16
-ffmpeg-php built on => Sep 21 2014 01:42:02
+ffmpeg-php built on => Nov 14 2014 01:03:46
 ffmpeg-php gd support  => enabled
 ffmpeg libavcodec version => Lavc52.123.0
 ffmpeg libavformat version => Lavf52.111.0
@@ -1110,7 +1110,7 @@ T1Lib Support => enabled
 GIF Read Support => enabled
 GIF Create Support => enabled
 JPEG Support => enabled
-libJPEG Version => 9
+libJPEG Version => unknown
 PNG Support => enabled
 libPNG Version => 1.6.9
 WBMP Support => enabled
@@ -1176,11 +1176,11 @@ htscanner.verbose => 0 => 0
 http
 
 HTTP Support => enabled
-Extension Version => 2.1.0RC3
+Extension Version => 2.1.4
 
 Used Library => Compiled => Linked
 libz => 1.2.8 => 1.2.8
-libcurl => 7.38.0 => 7.38.0
+libcurl => 7.39.0 => 7.39.0
 libevent => 2.1.4-alpha-dev => 2.1.4-alpha-dev
 
 Directive => Local Value => Master Value
@@ -1283,7 +1283,7 @@ judy.string.maxlength => 65536 => 65536
 ldap
 
 LDAP Support => enabled
-RCS Version => $Id: 9fe48a03aa04ed57ef752b0aad632b912205545f $
+RCS Version => $Id: 2dabc34c4033eedc9d7fa05f16544cdb14121c4e $
 Total Links => 0/unlimited
 API Version => 3001
 Vendor Name => OpenLDAP
@@ -1751,8 +1751,8 @@ odbc.max_persistent => Unlimited => Unlimited
 openssl
 
 OpenSSL support => enabled
-OpenSSL Library Version => OpenSSL 1.0.1i 6 Aug 2014
-OpenSSL Header Version => OpenSSL 1.0.1i 6 Aug 2014
+OpenSSL Library Version => OpenSSL 1.0.1j-fips 15 Oct 2014
+OpenSSL Header Version => OpenSSL 1.0.1j-fips 15 Oct 2014
 
 PC/SC
 
@@ -1886,7 +1886,7 @@ PSpell Support => enabled
 
 pthreads
 
-Version => 2.0.9
+Version => 2.0.11
 
 qb
 
@@ -1896,18 +1896,18 @@ Release Name => Basia D.
 CPU count => 4
 CPU architecture => x86
                                Diagnostics                               
-Integer addition throughput => 154 million operations per second
-Integer multiplication throughput => 146 million operations per second
-Integer division throughput => 91 million operations per second
-Integer multiply-accumulate throughput => 143 million operations per second
-Floating point addition throughput => 133 million operations per second
-Floating point multiplication throughput => 130 million operations per second
-Floating point division throughput => 112 million operations per second
-Floating point multiply-accumulate throughput => 118 million operations per second
-Vector addition throughput => 94 million operations per second
-Vector multiplication throughput => 93 million operations per second
-Vector division throughput => 32 million operations per second
-Vector multiply-accumulate throughput => 67 million operations per second
+Integer addition throughput => 276 million operations per second
+Integer multiplication throughput => 235 million operations per second
+Integer division throughput => 139 million operations per second
+Integer multiply-accumulate throughput => 228 million operations per second
+Floating point addition throughput => 214 million operations per second
+Floating point multiplication throughput => 237 million operations per second
+Floating point division throughput => 139 million operations per second
+Floating point multiply-accumulate throughput => 195 million operations per second
+Vector addition throughput => 146 million operations per second
+Vector multiplication throughput => 142 million operations per second
+Vector division throughput => 34 million operations per second
+Vector multiply-accumulate throughput => 109 million operations per second
 
 Directive => Local Value => Master Value
 qb.allow_bytecode_interpretation => On => On
@@ -2053,8 +2053,8 @@ solr
 
 Solr Extension Version => 2.0.0
 Solr Extension Revision Id => $Revision$
-Last Build Date => Sep 21 2014
-Last Build Time => 02:00:18
+Last Build Date => Nov 14 2014
+Last Build Time => 01:17:17
 SolrObject => enabled
 SolrDocument => enabled
 SolrDocumentField => enabled
@@ -2266,7 +2266,7 @@ Active Persistent Links => 0
 Active Links => 0
 Min server severity => 10
 Min client severity => 10
-Application Name => PHP 5.4.33
+Application Name => PHP 5.4.35
 Deadlock retry count => 0
 
 Directive => Local Value => Master Value
@@ -2296,7 +2296,7 @@ tidy.default_config => no value => no value
 timezonedb
 
 Alternative Timezone Database => enabled
-Timezone Database Version => 2014.7
+Timezone Database Version => 2014.10
 
 tokenizer
 
@@ -2324,10 +2324,10 @@ uprofiler => 0.11.0
 CPU num => 4
 process bound to CPU => 0
 CPU logical id =>  Clock Rate (MHz) 
- CPU 0  => 137
- CPU 1  => 2389
- CPU 2  => 2480
- CPU 3  => 2473
+ CPU 0  => 2351
+ CPU 1  => 2518
+ CPU 2  => 2379
+ CPU 3  => 2576
 
 varnish
 
@@ -2370,9 +2370,9 @@ XCache Cacher
 
 XCache Cacher Module => enabled
 Readonly Protection => disabled
-Page Request Time => 2014-09-21 02:07:05
-Cache Init Time => 2014-09-21 02:07:05
-Cache Instance Id => 4180.3604
+Page Request Time => 2014-11-14 01:21:24
+Cache Init Time => 2014-11-14 01:21:24
+Cache Instance Id => 4572.1548
 Opcode Cache => disabled
 Variable Cache => enabled, 4,194,304 bytes, 1 split(s), with 8192 slots each
 Shared Memory Schemes => mmap
@@ -2420,7 +2420,7 @@ xcache.optimizer => Off => Off
 xdebug
 
 xdebug support => enabled
-Version => 2.3.0dev
+Version => 2.2.5
 IDE Key =>  
 
 Supported protocols => Revision
@@ -2449,12 +2449,8 @@ xdebug.dump_once => On => On
 xdebug.dump_undefined => Off => Off
 xdebug.extended_info => On => On
 xdebug.file_link_format => no value => no value
-xdebug.force_display_errors => Off => Off
-xdebug.force_error_reporting => 0 => 0
-xdebug.halt_level => 0 => 0
 xdebug.idekey => no value => no value
 xdebug.max_nesting_level => 100 => 100
-xdebug.max_stack_frames => -1 => -1
 xdebug.overload_var_dump => On => On
 xdebug.profiler_aggregate => Off => Off
 xdebug.profiler_append => Off => Off
@@ -2609,8 +2605,8 @@ _SERVER["SCRIPT_NAME"] => phpinfo.php
 _SERVER["SCRIPT_FILENAME"] => phpinfo.php
 _SERVER["PATH_TRANSLATED"] => phpinfo.php
 _SERVER["DOCUMENT_ROOT"] => 
-_SERVER["REQUEST_TIME_FLOAT"] => 1411258025.0124
-_SERVER["REQUEST_TIME"] => 1411258025
+_SERVER["REQUEST_TIME_FLOAT"] => 1415924484.2556
+_SERVER["REQUEST_TIME"] => 1415924484
 _SERVER["argv"] => Array
 (
     [0] => phpinfo.php
